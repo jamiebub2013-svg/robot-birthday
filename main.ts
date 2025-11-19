@@ -1,3 +1,4 @@
+basic.showString("Hello!")
 basic.showIcon(IconNames.Happy)
 basic.pause(100)
 mbit_Robot.CarCtrlSpeed(mbit_Robot.CarState.Car_Run, 45)
